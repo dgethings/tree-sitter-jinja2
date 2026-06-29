@@ -1,4 +1,4 @@
-module github.com/dgethings/tree-sitter-jinja2
+module github.com/dgethings/tree-sitter-jinja2/bindings/go
 
 go 1.26
 
